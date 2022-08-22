@@ -43,3 +43,5 @@ kubectl apply -f fluentdserviceaccount.yaml
 ```
 kubectl apply -f fluentdset.yaml
 ```
+
+ For Verifying the fluentd  create a pod and check the logs in Kibana. 
